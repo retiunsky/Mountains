@@ -214,7 +214,7 @@ section img {
     width: 450px;
     height: 300px;
     margin-left: 10rem;
-    margin-top: -10rem;
+    margin-top: -2rem;
 }
 
 .imgContainer::after {
